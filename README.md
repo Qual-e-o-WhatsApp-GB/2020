@@ -1,6 +1,8 @@
 # 2020
 Qual é o WhatsApp GB
-O Whatsapp GB é um aplicativo alternativo à versão padrão do Whatsapp, uma versão mais avançada do que o Whatsapp padrão, e continua a ser desenvolvido com novos recursos todos os dias.
+
+
+O Whatsapp GB https://biva.digital/gbwhatsapp/ é um aplicativo alternativo à versão padrão do Whatsapp, uma versão mais avançada do que o Whatsapp padrão, e continua a ser desenvolvido com novos recursos todos os dias.
 A aparência do Whatsapp GB é semelhante ao Whatsapp padrão, mas quando clicamos nos três pontos (opções de menu) no canto superior direito, o menu Configurações do GB é exibido.
 
 Agora, vamos começar a cavar as configurações dessas opções de menu de cima para baixo um pouco para que possamos entender a diferença real de GB da versão padrão.
